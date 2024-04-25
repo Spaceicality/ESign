@@ -148,7 +148,7 @@ html, body {
 }
 
 .main-content .title-text {
-  width: 50%;
+  width: 46%;
   border-bottom: 2px solid var(--color-fg);
 }
 
@@ -168,7 +168,7 @@ html, body {
 /*   background: var(--color-fg); */
   color: var(--color-fg);
 /*   height: 25%; */
-  width: auto;
+  width: 46%;
   z-index: 2;
 /*   font-size: 15px; */
   text-align: center;
