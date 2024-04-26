@@ -148,8 +148,16 @@ html, body {
 }
 
 .main-content .title-text {
-  width: 46%;
+  width: 50%;
   border-bottom: 2px solid var(--color-fg);
+}
+
+.main-content #side-by-side {
+  width: 46%;
+}
+
+.main-content #full {
+  width: 100%;
 }
 
 .main-content .description-text {
